@@ -1,3 +1,5 @@
+# Help taken from Linux Academy :)
+
 #!/usr/bin/python3
 import socket
 
