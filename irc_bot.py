@@ -9,7 +9,7 @@ server = "chat.freenode.net" # Server
 
 channel = "##bot-testing" # Channel
 
-botnick = "shreyansh26Bot" # Your bots nick.
+botnick = "shreyansh26Bot" # Your bot's nickname.
 
 adminname = "shreyansh26Bot" #Your IRC nickname.
 exitcode = "bye " + botnick 
