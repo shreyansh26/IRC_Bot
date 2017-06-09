@@ -2,7 +2,7 @@ IRC Bot
 =======
 
 A simple IRC Bot made in python3.  
-Since the bot uses a private channel (namely **##bot-testing**), the adminname has been set the same as the bot nickname, for verifying exit status. You can change the adminname with your own IRC username, if the bot is deployed on a public channel.
+Since the bot uses a private channel (namely **##bot-testing**), the adminname has been set the same as the bot nickname, for verifying exit status. You can change the adminname with your own IRC nickname, if the bot is deployed on a public channel.
 
 Package Used
 ------------
